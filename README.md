@@ -1,1 +1,1 @@
-# fashion_accessories_recommender
+# Clothes_accessories_recommender
