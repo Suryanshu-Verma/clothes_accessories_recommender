@@ -1,5 +1,6 @@
 # Clothes & Accessories Recommender  
-![Banner](chlothes_accessories_recommender.png) <!-- Replace with actual image path if needed -->
+![Banner](https://github.com/Suryanshu-Verma/clothes_accessories_recommender/raw/main/fashion_accessories_banner.png)
+ <!-- Replace with actual image path if needed -->
 
 A **Streamlit-based** fashion recommendation app that uses **deep learning** to suggest similar clothes and accessories based on an uploaded image. Built using **ResNet50** for image embeddings and **KNN** for finding visual similarities.
 
